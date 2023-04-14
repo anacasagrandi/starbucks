@@ -86,3 +86,18 @@ header ul li a:hover {
 .conteudo .textoPrincipal p {
     color: var(--corSecudanria);
 }
+.conteudo .textoPrincipal a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: var(--corPrimaria);
+    border-radius: 40px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: var(--corTerciaria);
+}
+.conteudo .textoPrincipal a:hover {
+    background: var(--corSecudanria);
+    color: var(--corTerciaria);
+}
