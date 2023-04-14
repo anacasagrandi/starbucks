@@ -78,3 +78,11 @@ header ul li a:hover {
     line-height: 1.5em;
     font-weight: 400;
 }
+.conteudo .textoPrincipal h2 span {
+    color: var(--corPrimaria);
+    font-size: 1.2em;
+    font-weight: 900;
+}
+.conteudo .textoPrincipal p {
+    color: var(--corSecudanria);
+}
